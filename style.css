@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <table style="width:80%">
+  <tr>
+    <th><p><a href="Home.HTML">Home</a></p></th>
+    <th><p><a href="About.HTML">Graphic design</a></p></th>
+    <th><p><a href="Photography.HTML">Photography</a></p></th>
+    <th><p><a href="Contactinfo.HTML">Contact Info</a></p></th>
+   </tr>
+   </table>
+    
+<h1>Nguyen</h1>
+<p>Photographer and Editor</p>
+
+<img src="IMG_5874.JPG" alt="Nguyen" width="700" height="450">
+
+
+<p>I work with various adobe platforms such as</p>
+
+<ul>
+  <li>Adobe Lightroom</li>
+  <li>Adobe Photoshop</li>
+  <li>Adobe Premier</li>
+</ul>
+
+h1 {color:navy}
+body {
+background-color: pink;
+}
+table {
+border-collapse: collapse;
+width: 0%;
+}
+th, td ‹
+padding: 8px;
+text-align: center; border-bottom: Opx solid
+#DDD;
+}
+Ta { text-decoration: none;
+}
+td, th {
+text-align: center; vertical-align: middle;
+}
+th: hover {background-color: #D6EEEE;}
+</body>
+</html>
